@@ -4,7 +4,7 @@ import time
 
 class WhastsappBot:
     def __init__(self):
-        self.mensagem = "Acesse meu repositório, https://github.com/thiagocarvalhorodrigues/"
+        self.mensagem = ["Acesse meu repositório, https://github.com/thiagocarvalhorodrigues/"]
         self.grupos = ["Gizelli Momoi"]
         options = webdriver.ChromeOptions()
         options.add_argument('lang=pt-br')

@@ -1,2 +1,2 @@
-# Whatsboot
- Automação do Whats junto com chromedriver.exe
+# Whatsboot enviando Somente Mensagem
+ Automação do Whats enviando Somente Mensagem, junto com chromedriver.exe
